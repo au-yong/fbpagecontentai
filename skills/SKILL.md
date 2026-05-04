@@ -41,7 +41,7 @@ trigger:
    - Carousel posts: 3-5 cards, each covering a Malaysian SME use case
    - Short video scripts: 30-60s, reuse user's existing `historical-video-gen` motion pipeline if video content is requested
 2. Mandatory elements for every post:
-   - Localized CTA: e.g., "WhatsApp us at +60 12-345 6789 for a free demo"
+   - Localized CTA: e.g., "WhatsApp us at +60 1151245388 for a free demo"
    - PDPA compliance mention where relevant
    - No generic global examples
 3. Visual content generation (aligns with user's `historical-video-gen` project):
