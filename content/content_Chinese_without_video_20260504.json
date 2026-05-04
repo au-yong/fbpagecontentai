@@ -1,0 +1,44 @@
+{
+  "campaign_date": "2026-05-04",
+  "language": "Chinese",
+  "format": "without_video",
+  "image_mandatory": true,
+  "facebook_post": {
+    "headline": "马来西亚中小企业数字革命来了！",
+    "hook": "老板，还在晚上10点手动回复客户WhatsApp吗？",
+    "body": "马来西亚中小企业数字革命来了！\n\nJust this week:\n✅ Hartamas Real Estate partnered UCAN Technologies to deploy AI in property sales\n✅ WITO Technology's CEO shares how they went from 'Ground Zero to Industry Leader' powering MY SME digital revolution\n✅ FutureCFO reports: Malaysia's CFOs are navigating AI transformation\n\n老板，还在晚上10点手动回复客户WhatsApp吗？\n\nAt Microark AI, we make AI accessible for EVERY Malaysian SME:\n\n💰 Finance teams - Chatbots handle invoice queries & payment reminders instantly\n🏠 Sales teams - Chatbots qualify leads & schedule appointments 24/7\n📱 WhatsApp integration - 88% of Malaysians use it daily\n✅ PDPA compliant - Your customer data protected by Malaysian law\n\n立即WhatsApp我们获取免费演示！",
+    "cta": "立即WhatsApp我们获取免费演示！",
+    "hashtags": [
+      "#马来西亚AI",
+      "#智能聊天机器人",
+      "#PDPA合规",
+      "#WhatsApp商业版",
+      "#中小企业"
+    ],
+    "local_references": [
+      "Hartamas Real Estate",
+      "WITO Technology",
+      "FutureCFO",
+      "UCAN Technologies"
+    ]
+  },
+  "image_prompts": {
+    "z_image_prompts": [
+      {
+        "purpose": "Hero image - SME digital revolution",
+        "prompt": "Modern Malaysian SME office with diverse team celebrating digital success, laptops showing AI chatbot dashboard, warm lighting, Kuala Lumpur skyline visible, professional photography, high detail, 8K resolution, vibrant colors, text overlay: 'Chinese content'",
+        "style_notes": "Optimized for Z-Image/Tongyi-MAI"
+      },
+      {
+        "purpose": "Carousel card 1 - Finance automation",
+        "prompt": "Clean infographic with Malaysian flag colors, CFO silhouette with chatbot icon, text 'Invoice Queries? Payment Reminders? Chatbot handles it 24/7' in Chinese, dark blue gradient background",
+        "style_notes": "Dark theme, finance automation angle"
+      },
+      {
+        "purpose": "Carousel card 2 - Sales automation",
+        "prompt": "Hartamas Real Estate-style property showcase with chatbot interface on smartphone, Malaysian property agent discussing with client, WhatsApp chat bubbles, bright professional lighting, text in Chinese",
+        "style_notes": "Sales automation highlight"
+      }
+    ]
+  }
+}
