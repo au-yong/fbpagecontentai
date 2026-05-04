@@ -1,0 +1,84 @@
+{
+  "campaign_date": "2026-05-04",
+  "funnel_stage": "TOFU",
+  "language": "Manglish",
+  "platform": "Facebook Ads",
+  "campaign_objective": "Brand Awareness / Problem Agitation",
+  "budget": {
+    "daily_total_rm": 100.0,
+    "allocated_percent": "40%",
+    "allocated_daily_rm": 40.0,
+    "bid_strategy": "Lowest Cost (Maximize Reach)"
+  },
+  "target_kpis": ["Reach", "CPM", "Video Views (3s/10s)", "CTR"],
+  "research_sources": [
+    "Challenges for 2026 - NST Online",
+    "BUSINESS OUTLOOK SERIES: Balancing optimism and realism in the new year - The Edge Malaysia",
+    "2026 will be the great SME pivot - Free Malaysia Today"
+  ],
+  "ad_creative": {
+    "format_options": ["Video (15s/30s)", "Carousel (3-5 cards)", "Single Image"],
+    "hook": "Boss, 2026 SME challenges dah masuk! Still manual reply WhatsApp till 10PM? 😅",
+    "headline": "2026: Year of Great SME Pivot - Jangan ketinggalan!",
+    "body": "Free Malaysia Today kata 2026 will be the year of great SME pivot. Tapi you still struggling dengan manual customer service? 88% Malaysians guna WhatsApp daily - meet them there lah! AI chatbot can handle 100+ inquiries while you sleep. Balance your optimism with realism - automate or get left behind. PDPA compliant, WhatsApp integration ready. Check lah how competitors dah guna AI!",
+    "cta_button": "Learn More",
+    "mandatory_elements": [
+      "PDPA compliance mentioned",
+      "WhatsApp integration highlight",
+      "Local examples: Hartamas Real Estate, WITO Technology",
+      "Image text < 20% (Facebook rule)",
+      "2026 SME trends reference"
+    ]
+  },
+  "image_prompts": {
+    "z_image_prompts": [
+      {
+        "purpose": "TOFU Problem Agitation",
+        "prompt": "Malaysian SME owner stressed at desk 10PM, messy WhatsApp notifications on phone, calendar showing 2026 SME challenges, split screen with AI chatbot dashboard orderly handling queries, text overlay: '2026: Pivot or Perish?', optimized for Z-Image 2048x2048",
+        "style_notes": "High contrast, Malaysian office context, KL skyline faint background"
+      },
+      {
+        "purpose": "TOFU Success Contrast",
+        "prompt": "Infographic style, Malaysian flag colors, left side: Manual chaos (tired boss, 50 WhatsApp unread), right side: AI order (chatbot handling inquiries, happy boss), text: '88% Malaysians use WhatsApp - are you there?', dark blue gradient background",
+        "style_notes": "Clean typography, minimal text, Z-Image optimized"
+      }
+    ]
+  },
+  "video_production": {
+    "duration": "15s (TOFU awareness) / 30s (extended)",
+    "aspect_ratio": "9:16 vertical (mobile-first)",
+    "production_table": [
+      {
+        "time": "0-3s",
+        "hook": "Boss, 2026 SME challenges dah masuk! 😅",
+        "visual": "Tired boss at desk, WhatsApp notification explosion, text: 'Manual reply = 20hrs/week wasted'"
+      },
+      {
+        "time": "3-12s",
+        "content": "Free Malaysia Today: 2026 = Great SME Pivot. 88% Malaysians guna WhatsApp. AI chatbot handle 100+ inquiries while you sleep!",
+        "visual": "Chatbot interface animation, WhatsApp chat bubbles, Hartamas Real Estate logo appear"
+      },
+      {
+        "time": "12-15s",
+        "cta": "WhatsApp: +60 12-345 6789. Jangan ketinggalan pivot!",
+        "visual": "WhatsApp number glowing, Malaysian flag overlay, 'PDPA Compliant' badge"
+      }
+    ]
+  },
+  "audience_targeting": {
+    "demographics": "Age 25-45, Location: MY (KL, Penang, JB, Johor)",
+    "interests": ["Small Business Malaysia", "SME Association Malaysia", "MDEC", "Business 2026 Outlook"],
+    "behaviors": ["Business page admins", "Frequent travelers (business)"],
+    "exclusions": ["Existing customers", "Job seekers"],
+    "retargeting": "None (cold traffic for TOFU)"
+  },
+  "cost_saving_strategies": [
+    "Kill ads with CTR < 1% within 48h",
+    "Use 'Lowest Cost' bid strategy to maximize reach",
+    "Test 3-5 ad variations (Problem vs Opportunity vs Trend angles)",
+    "Reuse video for MOFU/BOFU (just change text overlay)",
+    "Batch-create 5-10 variations in one session"
+  ],
+  "success_metrics": "CPM < RM15, CTR > 1%, Video views (3s) > 30%, Reach > 50K/week",
+  "freshness_note": "Generated using live web research on 2026-05-04, trends: SME 2026 challenges, business outlook pivot, great SME transformation"
+}
