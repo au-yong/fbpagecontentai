@@ -1,0 +1,99 @@
+{
+  "campaign_date": "2026-05-04",
+  "platform": "TikTok",
+  "language": "Manglish",
+  "format": "with_video",
+  "platform_settings": {
+    "text_length": "Video-only (caption 50-100 words)",
+    "image_count": "None (video-first platform)",
+    "hashtag_count": "3-5 trending hashtags",
+    "video_aspect": "9:16 vertical ONLY",
+    "mandatory_image": false,
+    "note": "TikTok is video-only, no image posts"
+  },
+  "image_mandatory": false,
+  "tiktok_post": {
+    "format": "9:16 vertical video ONLY",
+    "hook_3s": "Hartamas Real Estate dah guna AI! (Manglish)",
+    "body": "Boss, you still manually reply customer WhatsApp at 10PM? 😅\n\nAt Microark AI, we make AI accessible for EVERY Malaysian SME:\n💰 Finance teams - Chatbots handle invoice queries instantly\n🏠 Sales teams - Chatbots qualify leads 24/7\n📱 WhatsApp integration - PDPA compliant\n\nWhatsApp us NOW for FREE demo lah! 📱",
+    "cta": "WhatsApp us NOW for FREE demo lah! 📱",
+    "hashtags": [
+      "#AIchatbotMY",
+      "#SMEdigital",
+      "#WhatsAppBusiness",
+      "#PDPAcompliant"
+    ],
+    "video_production": {
+      "aspect_ratio": "9:16",
+      "duration": "30s or 60s",
+      "production_table": [
+        {
+          "time": "0-3s",
+          "hook": "Hartamas Real Estate success story! (Manglish)",
+          "visual": "Surprised owner reading news on phone"
+        },
+        {
+          "time": "3-10s",
+          "content": "AI chatbot automation benefits",
+          "visual": "Split screen professionals with chatbots"
+        },
+        {
+          "time": "10-20s",
+          "benefit": "24/7 WhatsApp automation",
+          "visual": "Owner sleeping, phone lighting up"
+        },
+        {
+          "time": "20-27s",
+          "cta": "WhatsApp: +60 12-345 6789 (Manglish)",
+          "visual": "Owner pointing to camera"
+        },
+        {
+          "time": "27-30s",
+          "brand": "Microark AI - SME Digital Revolution",
+          "visual": "Logo animation"
+        }
+      ]
+    }
+  },
+  "video_production": {
+    "platform": "TikTok",
+    "aspect_ratio": "9:16 vertical ONLY",
+    "duration_options": [
+      "15s",
+      "30s",
+      "60s"
+    ],
+    "production_table": [
+      {
+        "time": "0-3s",
+        "audio": "Hartamas Real Estate success! (Manglish)",
+        "visual": "Surprised Malaysian SME owner reading news on smartphone",
+        "hook_type": "Pattern interrupt - local success story"
+      },
+      {
+        "time": "3-10s",
+        "audio": "AI chatbot automate everything! 24/7 PDPA compliant (Manglish)",
+        "visual": "Split screen: CFO + Sales agent with chatbot interfaces",
+        "hook_type": "Solution presentation"
+      },
+      {
+        "time": "10-20s",
+        "audio": "Customer WhatsApp query? Chatbot answers instantly! (Manglish)",
+        "visual": "Owner sleeping peacefully, phone glowing with automated replies",
+        "hook_type": "Benefit demonstration"
+      },
+      {
+        "time": "20-27s",
+        "audio": "WhatsApp: +60 12-345 6789. Free demo! (Manglish)",
+        "visual": "Confident owner pointing to camera, WhatsApp number glowing",
+        "hook_type": "Call to action"
+      },
+      {
+        "time": "27-30s",
+        "audio": "Microark AI - SME Digital Revolution (Manglish)",
+        "visual": "Logo animation with Malaysian flag pattern",
+        "hook_type": "Brand recall"
+      }
+    ]
+  }
+}

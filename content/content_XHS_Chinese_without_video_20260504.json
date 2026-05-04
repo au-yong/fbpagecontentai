@@ -1,0 +1,84 @@
+{
+  "campaign_date": "2026-05-04",
+  "platform": "XHS",
+  "language": "Chinese",
+  "format": "without_video",
+  "platform_settings": {
+    "text_length": "50-100 words (Chinese)",
+    "image_count": "9 images (carousel mandatory)",
+    "hashtag_count": "10-15 Chinese hashtags",
+    "video_aspect": "9:16 (if video)",
+    "mandatory_image": true,
+    "note": "XHS requires Chinese language content"
+  },
+  "image_mandatory": true,
+  "xhs_post": {
+    "headline": "马来西亚中小企业数字革命来了！",
+    "body": "马来西亚中小企业数字革命来了！ 🇲🇾\n\n本周热门新闻：\n✅ Hartamas Real Estate与UCAN Technologies合作部署AI\n✅ WITO Technology CEO分享：从\"零到行业领导者\"的数字化转型之路\n✅ FutureCFO报道：马来西亚CFO如何引领AI转型\n\n老板，还在晚上10点手动回复客户WhatsApp吗？\n\nMicroark AI让每个马来西亚中小企业都能用上AI：\n\n💰 财务团队 - 聊天机器人即时处理发票查询\n🏠 销售团队 - 24/7自动筛选潜在客户\n📱 WhatsApp集成 - 88%大马人每天都在用\n✅ PDPA合规 - 客户数据受马来西亚法律保护\n\n立即WhatsApp我们获取免费演示！",
+    "cta": "立即WhatsApp我们获取免费演示！",
+    "hashtags": [
+      "#马来西亚AI",
+      "#智能聊天机器人",
+      "#PDPA合规",
+      "#WhatsApp商业版",
+      "#中小企业数字化",
+      "#HartamasRealEstate",
+      "#WITO科技",
+      "#吉隆坡AI",
+      "#聊天机器人马来西亚",
+      "#AI自动化"
+    ],
+    "image_count": 9,
+    "image_style": "Lifestyle + infographic mix, bright colors, Chinese + English text overlay"
+  },
+  "image_prompts": {
+    "count": 9,
+    "images": [
+      {
+        "slide": 1,
+        "purpose": "Hero image - SME digital revolution",
+        "prompt": "Modern Malaysian SME office with diverse team, Kuala Lumpur skyline, Chinese + English text: 马来西亚中小企业数字革命来了！"
+      },
+      {
+        "slide": 2,
+        "purpose": "Finance automation",
+        "prompt": "Clean infographic, CFO with chatbot icon, text in Chinese: 发票查询？聊天机器人即时处理"
+      },
+      {
+        "slide": 3,
+        "purpose": "Sales automation",
+        "prompt": "Hartamas Real Estate style, property agent with chatbot on phone, Chinese text: 24/7自动筛选客户"
+      },
+      {
+        "slide": 4,
+        "purpose": "WhatsApp integration",
+        "prompt": "WhatsApp chat interface on smartphone, Malaysian flag colors, text: 88%大马人每天使用"
+      },
+      {
+        "slide": 5,
+        "purpose": "PDPA compliance",
+        "prompt": "Shield icon with Malaysian flag, legal document, Chinese text: PDPA合规 - 客户数据受保护"
+      },
+      {
+        "slide": 6,
+        "purpose": "Success story - WITO",
+        "prompt": "WITO Technology CEO portrait, '从零到行业领导者' text, inspiring style"
+      },
+      {
+        "slide": 7,
+        "purpose": "Hartamas partnership",
+        "prompt": "Hartamas Real Estate property showcase, UCAN Technologies logo, modern office"
+      },
+      {
+        "slide": 8,
+        "purpose": "Microark AI solution",
+        "prompt": "Microark AI dashboard on laptop, chatbot interface, happy Malaysian SME owner"
+      },
+      {
+        "slide": 9,
+        "purpose": "CTA slide",
+        "prompt": "WhatsApp number: +60 12-345 6789, '免费演示' text, neon glow effect, QR code"
+      }
+    ]
+  }
+}

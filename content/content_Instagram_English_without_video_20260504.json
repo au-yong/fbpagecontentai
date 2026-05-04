@@ -1,0 +1,62 @@
+{
+  "campaign_date": "2026-05-04",
+  "platform": "Instagram",
+  "language": "English",
+  "format": "without_video",
+  "platform_settings": {
+    "text_length": "125-300 words (Feed) or 50-100 (Reels)",
+    "image_count": "1-10 images (Feed) or video (Reels)",
+    "hashtag_count": "30 max hashtags",
+    "video_aspect": "1:1 (Feed) or 9:16 (Reels)",
+    "mandatory_image": true
+  },
+  "image_mandatory": true,
+  "instagram_post": {
+    "feed_post": {
+      "headline": "Malaysia's SME Digital Revolution is HERE!",
+      "caption": "Malaysia's SME Digital Revolution is HERE! 🇲🇾\n\nJust this week:\n✅ Hartamas Real Estate partnered UCAN Technologies\n✅ WITO Technology: 'Ground Zero to Industry Leader'\n✅ FutureCFO: Malaysia CFOs navigating AI transformation\n\nBoss, still manually replying customer WhatsApp at 10PM?\n\nAt Microark AI, we make AI accessible for EVERY Malaysian SME:\n💰 Finance - Invoice queries automated\n🏠 Sales - Lead qualification 24/7\n📱 WhatsApp - 88% Malaysians use it daily\n✅ PDPA compliant\n\nWhatsApp us NOW for FREE demo!\n\n.\n.\n.\n#SMEdigitalMY #AIchatbotMY #PDPAcompliant #WhatsAppBusiness #MalaysiaBiz #AIMalaysia #SMEautomation #DigitalTransformation #MicroarkAI #HartamasRealEstate",
+      "image_count": "3-5 images",
+      "hashtags": [
+        "#SMEdigitalMY",
+        "#AIchatbotMY",
+        "#PDPAcompliant",
+        "#WhatsAppBusiness",
+        "#MalaysiaBiz",
+        "#AIMalaysia",
+        "#SMEautomation",
+        "#DigitalTransformation",
+        "#MicroarkAI"
+      ]
+    },
+    "reels": {
+      "duration": "15-60s",
+      "aspect": "9:16 vertical",
+      "hook": "Boss, still manually replying customer WhatsApp at 10PM?",
+      "cta": "WhatsApp us NOW for FREE demo!"
+    },
+    "stories": {
+      "format": "15s clips x 3-5 slides",
+      "interactive": "Polls, Q&A stickers",
+      "cta": "Swipe up to WhatsApp"
+    }
+  },
+  "image_prompts": {
+    "z_image_prompts": [
+      {
+        "purpose": "Hero image - SME digital revolution",
+        "prompt": "Modern Malaysian SME office with diverse team celebrating digital success, Kuala Lumpur skyline, text overlay in English",
+        "style_notes": "Optimized for Z-Image/Tongyi-MAI"
+      },
+      {
+        "purpose": "Carousel card - Finance automation",
+        "prompt": "Infographic with Malaysian flag colors, CFO with chatbot icon, text in English, dark blue gradient",
+        "style_notes": "Dark theme, finance angle"
+      },
+      {
+        "purpose": "Carousel card - Sales automation",
+        "prompt": "Hartamas Real Estate style, property agent with chatbot on phone, WhatsApp bubbles, text in English",
+        "style_notes": "Sales automation highlight"
+      }
+    ]
+  }
+}

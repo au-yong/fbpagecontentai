@@ -12,6 +12,10 @@ trigger:
   - "generate MY AI chatbot FB content with video"
   - "generate MY AI chatbot FB content without video"
   - "create AI chatbot FB post English BM Chinese"
+  - "generate MY AI chatbot content for XHS"
+  - "generate MY AI chatbot content for TikTok"
+  - "generate MY AI chatbot content for Instagram"
+  - "generate MY AI chatbot content multi-platform"
 ---
 
 # Malaysia AI Chatbot Facebook Content Creation
@@ -75,35 +79,45 @@ trigger:
    - Pain points: Cost-effectiveness, 24/7 local language support, integration with WhatsApp (dominant MY messaging app)
 2. Use localized examples only: e.g., "boost sales for Malaysian F&B chains like Secret Recipe" instead of generic global brands.
 
-## Step3: Facebook Content Generation
+## Step3: Multi-Platform Content Generation
+
+### Platform Options (specify in trigger or prompt)
+- **Facebook**: Text + image (mandatory) + optional video, longer copy (150-200 words), supports multiple images/carousel
+- **XHS (小红书)**: Chinese-focused, 9-image carousels preferred, shorter text (50-100 words), heavy use of emojis, Chinese hashtags (#AI聊天机器人)
+- **TikTok**: Video-first (15s/30s/60s), vertical 9:16, hook in first 3 seconds, trending sounds, English/BM/Manglish audio
+- **Instagram**: 3 formats - Feed (image + caption), Reels (video 9:16), Stories (disappearing, 15s clips)
 
 ### Language Options (specify in trigger or prompt)
 - **English**: Professional marketing tone, suitable for corporate audiences
 - **Bahasa Malaysia (BM)**: Full BM content, formal to colloquial depending on brand voice
-- **Chinese (中文)**: Traditional or Simplified Chinese, target Chinese-Malaysian SMEs
+- **Chinese (中文)**: Traditional or Simplified Chinese, target Chinese-Malaysian SMEs (MUST for XHS)
 - **Manglish**: English + BM mix (default), colloquial "boss" tone, highly engaging for local SMEs
 
 ### Content Format Options
 - **With Video**: Full package - text + Z-Image visuals + video scenes (30s/60s)
 - **Without Video**: Text + Z-Image visuals only (no video generation)
-- **Image is MANDATORY**: Every content package must include Z-Image prompts/visuals
+- **Image is MANDATORY**: Every content package must include Z-Image prompts/visuals (except TikTok which is video-only)
 
-1. Supported content formats (match to user's existing workflow preferences):
-   - Short text posts: 150-200 words, tie directly to trending news, include 1-2 localized case studies
-   - Carousel posts: 3-5 cards, each covering a Malaysian SME use case
-   - Short video scripts: 30-60s, reuse user's existing `historical-video-gen` motion pipeline (ONLY if video format requested)
+1. Supported content formats by platform:
+   - **Facebook**: Short text posts (150-200 words), carousels (3-5 cards), optional video (30s-60s)
+   - **XHS**: 9-image carousel posts (mandatory), short caption (50-100 words), Chinese hashtags
+   - **TikTok**: Video-only (15s/30s/60s), structured production table, pattern interrupt hooks
+   - **Instagram Feed**: Single/Multiple images + caption (125-300 words), hashtags (30 max)
+   - **Instagram Reels**: Video (15s-90s), vertical 9:16, trending audio integration
+   - **Instagram Stories**: 15s video clips (3-5 slides), interactive stickers (polls, Q&A)
+
 2. Mandatory elements for every post:
    - Localized CTA: e.g., "WhatsApp us at +60 12-345 6789 for a free demo"
    - PDPA compliance mention where relevant
    - No generic global examples
-   - **Image content**: Always generate Z-Image prompts/visuals (mandatory)
-3. Visual content generation (aligns with user's `historical-video-gen` project):
-   - **Z-Image prompts** (MANDATORY): Generate 2-3 high-fidelity natural language prompts optimized for Z-Image/Tongyi-MAI, featuring Malaysian context
-   - **Video motion prompts** (OPTIONAL - only if video format requested): For 30s/60s reels, create structured production table format:
-     * Time | Audio (Bahasa Malaysia/English/Chinese script) | Z-Image Prompt | Video Motion Prompt
-     * Apply 'Strict' safety mode (euphemism replacement) to bypass Vertex AI filters
-     * Use pattern interrupt hooks + loop structures for viral potential
-   - **Carousel card images**: Generate Z-Image prompts for each card (infographic style, dark theme preferred per user's design preferences)
+   - **Image content**: Always generate Z-Image prompts/visuals (mandatory for FB/XHS/IG Feed)
+
+3. Platform-specific visual content generation:
+   - **Facebook/XHS/IG Feed**: Z-Image prompts (MANDATORY) - 2-3 high-fidelity prompts optimized for Z-Image/Tongyi-MAI
+   - **TikTok/IG Reels**: Video motion prompts (MANDATORY) - structured production table with hook/loop
+   - **XHS**: 9-image carousel prompts (MANDATORY) - each image needs unique Z-Image prompt
+   - **IG Stories**: 15s video clips with interactive elements (polls, Q&A prompts)
+
 4. **Generate visuals via OpenRouter** (CRITICAL: use correct endpoints):
    - **Z-Image generation** (bytedance-seed/seedream-4.5):
      * Endpoint: `https://openrouter.ai/api/v1/chat/completions` (NOT `/images/generations` - that doesn't work!)
@@ -117,12 +131,14 @@ trigger:
      * Poll `polling_url` from response until status = "completed"
      * Download from `unsigned_urls[0]` (requires auth header despite "unsigned" name)
    - **Output preference**: Default to JSON export (per user's preference for JSON-first outputs), include separate sections for:
+     * `platform`: Target platform (Facebook/XHS/TikTok/Instagram)
      * `language`: Selected language (English/BM/Chinese/Manglish)
-     * `format`: "with_video" or "without_video"
-     * `text_content`: Facebook post copy in specified language
-     * `image_prompts`: Z-Image prompts (MANDATORY, always included)
-     * `video_production_table`: Only if format="with_video"
-     * `carousel_cards`: Optional carousel card prompts
+     * `format`: "with_video" or "without_video" (image mandatory for most platforms)
+     * `text_content`: Post copy adapted to platform (FB: 150-200w, XHS: 50-100w, IG: 125-300w)
+     * `image_prompts`: Z-Image prompts (MANDATORY for FB/XHS/IG Feed, 9 images for XHS)
+     * `video_production_table`: Only if format="with_video" (TikTok/IG Reels: 9:16 vertical)
+     * `carousel_cards`: XHS 9-image carousel or FB 3-5 card prompts
+     * `stories_clips`: IG Stories 15s clips with interactive elements
 
 ## Step 4: Verification & Quality Checks
 1. Confirm all news references are from the last 7 days and from reputable MY sources
