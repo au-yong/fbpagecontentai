@@ -5,9 +5,9 @@
   "platform": "Facebook Ads",
   "campaign_objective": "Lead Generation / Engagement",
   "budget": {
-    "daily_total_rm": 100.0,
+    "daily_total_rm": 30.0,
     "allocated_percent": "35%",
-    "allocated_daily_rm": 35.0,
+    "allocated_daily_rm": 10.5,
     "bid_strategy": "Cost Cap (CPL < RM15)"
   },
   "target_kpis": [
