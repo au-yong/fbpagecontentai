@@ -1,0 +1,90 @@
+{
+  "campaign_date": "2026-05-04",
+  "funnel_stage": "TOFU",
+  "language": "Manglish",
+  "platform": "Facebook Ads",
+  "campaign_objective": "Brand Awareness / Reach",
+  "budget": {
+    "daily_total_rm": 100.0,
+    "allocated_percent": "40%",
+    "allocated_daily_rm": 40.0,
+    "bid_strategy": "Lowest Cost"
+  },
+  "target_kpis": [
+    "Reach",
+    "CPM",
+    "Video Views (3s/10s)"
+  ],
+  "ad_creative": {
+    "format_options": [
+      "Video (15s/30s)",
+      "Carousel (3-5 cards)",
+      "Single Image"
+    ],
+    "headline": "Boss, Malaysia's SME digital revolution is HERE lah! 🇲🇾",
+    "body": "88% Malaysians use WhatsApp daily. Your business ada there or not?",
+    "hook": "Boss, you still manually reply WhatsApp at 10PM? 😅",
+    "cta_button": "WhatsApp us NOW for FREE assessment lah! 📱",
+    "mandatory_elements": [
+      "PDPA compliance mentioned",
+      "WhatsApp number: +60 12-345 6789",
+      "Local examples: Hartamas Real Estate, WITO Technology",
+      "Image text < 20% (Facebook rule)"
+    ]
+  },
+  "image_prompts": {
+    "z_image_prompts": [
+      {
+        "purpose": "TOFU Hero Image",
+        "prompt": "Malaysian SME owner tired at desk, chatbot interface visible, WhatsApp icon, text overlay in Manglish: Boss, Malaysia's SME digital revolution is HERE lah! 🇲🇾",
+        "style_notes": "Optimized for Z-Image, 2048x2048, high contrast"
+      },
+      {
+        "purpose": "TOFU Feature Card",
+        "prompt": "Infographic style, Malaysian flag colors, chatbot icon, feature highlights in Manglish, dark blue gradient background",
+        "style_notes": "Clean typography, minimal text"
+      }
+    ]
+  },
+  "video_production": {
+    "duration": "15s (TOFU) / 30s (MOFU/BOFU)",
+    "aspect_ratio": "9:16 vertical (mobile-first)",
+    "production_table": [
+      {
+        "time": "0-3s",
+        "hook": "Boss, you still manually reply WhatsApp at 10PM? 😅",
+        "visual": "Surprised boss with smartphone"
+      },
+      {
+        "time": "3-10s",
+        "content": "88% Malaysians use WhatsApp daily. Your business ada there or not?",
+        "visual": "Chatbot interface animation, WhatsApp chat bubbles"
+      },
+      {
+        "time": "10-15s",
+        "cta": "WhatsApp us NOW for FREE assessment lah! 📱",
+        "visual": "WhatsApp number glowing, Malaysian flag overlay"
+      }
+    ]
+  },
+  "audience_targeting": {
+    "interests": [
+      "Small Business Malaysia",
+      "SME Association Malaysia",
+      "MDEC"
+    ],
+    "demographics": "Age 25-45, Location: MY (KL, Penang, JB)",
+    "exclusions": [
+      "Existing customers",
+      "Job seekers"
+    ]
+  },
+  "cost_saving_strategies": [
+    "Kill ads with CTR < 1% (TOFU) / CPL > RM20 (MOFU) / CPA > RM50 (BOFU) within 48h",
+    "Use retargeting pixel (reduces CPL by 40-60%)",
+    "Test 3-5 ad variations per funnel stage",
+    "Reuse TOFU video for MOFU/BOFU (just change text overlay)",
+    "Batch-create 5-10 variations in one session (reduce design time by 70%)"
+  ],
+  "success_metrics": "CPM < RM15, CTR > 1.5%, Video views (3s) > 30%"
+}

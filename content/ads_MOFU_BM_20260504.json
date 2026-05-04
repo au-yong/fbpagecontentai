@@ -1,0 +1,87 @@
+{
+  "campaign_date": "2026-05-04",
+  "funnel_stage": "MOFU",
+  "language": "BM",
+  "platform": "Facebook Ads",
+  "campaign_objective": "Lead Generation / Engagement",
+  "budget": {
+    "daily_total_rm": 100.0,
+    "allocated_percent": "35%",
+    "allocated_daily_rm": 35.0,
+    "bid_strategy": "Cost Cap (CPL < RM15)"
+  },
+  "target_kpis": [
+    "CTR",
+    "CPL (Cost Per Lead)",
+    "Engagement Rate"
+  ],
+  "ad_creative": {
+    "format_options": [
+      "Lead Forms",
+      "Video Testimonials",
+      "Carousel (Features)"
+    ],
+    "headline": "PENILAIAN AI PERCUMA (Bernilai RM500!)",
+    "body": "Chatbot jimat 20+ jam/minggu. Tengok kalau bisnes anda ready dalam 5 soalan.",
+    "hook": "PENILAIAN AI PERCUMA (Bernilai RM500!)",
+    "cta_button": "Muat turun Penilaian PERCUMA",
+    "mandatory_elements": [
+      "PDPA compliance mentioned",
+      "WhatsApp number: +60 12-345 6789",
+      "Local examples: Hartamas Real Estate, WITO Technology",
+      "Image text < 20% (Facebook rule)"
+    ]
+  },
+  "image_prompts": {
+    "z_image_prompts": [
+      {
+        "purpose": "MOFU Hero Image",
+        "prompt": "Malaysian SME owner filling lead form, chatbot interface visible, WhatsApp icon, text overlay in BM: PENILAIAN AI PERCUMA (Bernilai RM500!)",
+        "style_notes": "Optimized for Z-Image, 2048x2048, high contrast"
+      },
+      {
+        "purpose": "MOFU Feature Card",
+        "prompt": "Infographic style, Malaysian flag colors, chatbot icon, feature highlights in BM, dark blue gradient background",
+        "style_notes": "Clean typography, minimal text"
+      }
+    ]
+  },
+  "video_production": {
+    "duration": "15s (TOFU) / 30s (MOFU/BOFU)",
+    "aspect_ratio": "9:16 vertical (mobile-first)",
+    "production_table": [
+      {
+        "time": "0-3s",
+        "hook": "PENILAIAN AI PERCUMA (Bernilai RM500!)",
+        "visual": "Happy lead with smartphone"
+      },
+      {
+        "time": "3-10s",
+        "content": "Chatbot jimat 20+ jam/minggu. Tengok kalau bisnes anda ready dalam 5 soalan.",
+        "visual": "Chatbot interface animation, WhatsApp chat bubbles"
+      },
+      {
+        "time": "10-15s",
+        "cta": "Muat turun Penilaian PERCUMA",
+        "visual": "WhatsApp number glowing, Malaysian flag overlay"
+      }
+    ]
+  },
+  "audience_targeting": {
+    "retargeting": "Page engagers, Video viewers (50%+), TOFU visitors",
+    "lead_form_fields": [
+      "Name",
+      "Phone",
+      "Company",
+      "Pain Point (dropdown)"
+    ]
+  },
+  "cost_saving_strategies": [
+    "Kill ads with CTR < 1% (TOFU) / CPL > RM20 (MOFU) / CPA > RM50 (BOFU) within 48h",
+    "Use retargeting pixel (reduces CPL by 40-60%)",
+    "Test 3-5 ad variations per funnel stage",
+    "Reuse TOFU video for MOFU/BOFU (just change text overlay)",
+    "Batch-create 5-10 variations in one session (reduce design time by 70%)"
+  ],
+  "success_metrics": "CPL < RM15, CTR > 2%, Lead form completion > 10%"
+}
