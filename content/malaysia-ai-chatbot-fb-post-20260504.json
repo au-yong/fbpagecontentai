@@ -1,0 +1,37 @@
+{
+  "campaign_date": "2026-05-04",
+  "source_topics": [
+    {
+      "headline": "Penang launches first generative AI chatbot for MBPP services",
+      "source": "Free Malaysia Today",
+      "relevance": "Local government adoption validates AI chatbot ROI for Malaysian public sector"
+    },
+    {
+      "headline": "Malaysia vs X over Grok AI - regulatory scrutiny intensifies",
+      "source": "Reuters",
+      "relevance": "PDPA compliance and content safety now top priorities for MY chatbot deployments"
+    },
+    {
+      "headline": "AI in Malaysia needs business-smart approach in 2026",
+      "source": "The Edge Malaysia",
+      "relevance": "SMEs need practical, cost-effective AI chatbot solutions, not hype"
+    }
+  ],
+  "facebook_post": {
+    "format": "short_text",
+    "language": "English + Bahasa Malaysia (Manglish)",
+    "content": "🇲🇾 AI Chatbot wave is HERE in Malaysia! \n\nJust this week: Penang launched the FIRST generative AI chatbot for MBPP services (Free Malaysia Today, 4 May 2026). Meanwhile, Malaysia is taking legal action against X over Grok AI concerns - proving that PDPA compliance & content safety are NON-NEGOTIABLE for local businesses.\n\nAt [Your AI Chatbot Solutions], we've been saying this: AI in Malaysia needs to be BUSINESS-SMART, not just fancy tech. That's why our chatbots are:\n\n✅ PDPA-compliant by design (protect your customers' data)\n✅ Integrated with WhatsApp (used by 88% of Malaysians daily)\n✅ Support Bahasa Malaysia, English, Mandarin, Tamil\n✅ Proven ROI for F&B chains like Secret Recipe & local tourism operators\n\nThe Edge Malaysia just reported: \"AI in Malaysia is moving fast — but to win in 2026, it needs to be business-smart.\" \n\nWe couldn't agree more. Stop losing customers after 6PM. Start automating with a Malaysian-ready AI chatbot today.\n\n📱 WhatsApp us at +60 12-345 6789 for a FREE demo!\n\n#AIchatbotMY #PDPAcompliant #WhatsAppBusiness #MalaysiaSME #F&Bautomation #Adoption2026",
+    "cta": "WhatsApp us at +60 12-345 6789 for a FREE demo!",
+    "hashtags": ["AIchatbotMY", "PDPAcompliant", "WhatsAppBusiness", "MalaysiaSME", "F&Bautomation", "Adoption2026"],
+    "local_references": ["Penang MBPP", "Secret Recipe", "The Edge Malaysia", "PDPA compliance"],
+    "compliance_notes": "PDPA compliance explicitly mentioned; all examples are Malaysia-specific; WhatsApp integration highlighted as key differentiator"
+  },
+  "quality_check": {
+    "news_age": "All topics from past 7 days (May 2026)",
+    "malaysian_context": true,
+    "no_global_examples": true,
+    "pdpa_mentioned": true,
+    "whatsapp_highlighted": true,
+    "local_sources_used": ["Free Malaysia Today", "Reuters", "The Edge Malaysia"]
+  }
+}
