@@ -29,7 +29,7 @@ desktop.ini
 # Large data files (JSON datasets)
 lpeph_negotiators_20260505_010015.json
 lpeph_negotiators_classified.json
-lpeph_firms_type5_p1-33.json
+# lpeph_firms_type5_p1-33.json  # Uncommented - needed for fbpagecontentai
 malaysia_property_agents_3000.json
 malaysia_tourism_top2000_companies.json
 malaysia_ai_chatbot_target_companies.json
