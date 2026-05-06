@@ -1,0 +1,38 @@
+{
+  "content_type": "email",
+  "target_audience": "Malaysian SMEs (Tourism & Property sectors)",
+  "language": "English + Manglish mix",
+  "generated_date": "2026-05-05",
+  "news_references": [
+    "Penang launches first generative AI chatbot for MBPP services (Free Malaysia Today)",
+    "AI in Malaysian workplaces: A strategic outlook (People Matters Global)"
+  ],
+  "email_subject": "Chatbot jimat 20 jam/minggu untuk SME Malaysia! 🤖",
+  "email_body_html": "<!DOCTYPE html><html><head><meta charset='UTF-8'><meta name='viewport' content='width=device-width, initial-scale=1.0'></head><body style='font-family: Arial, sans-serif; line-height: 1.6; color: #333;'><div style='max-width: 600px; margin: 0 auto; padding: 20px;'><h2 style='color: #2c3e50;'>Chatbot jimat 20 jam/minggu untuk SME Malaysia! 🤖</h2><p>Dear SME Owner,</p><p>Baru-baru ini, Pulau Pinang dah lancar AI chatbot untuk MBPP services — proof yang AI automation dah jadi keutamaan di Malaysia!</p><p>For tourism & property SMEs, our AI chatbot solutions can:</p><ul><li>Auto-reply booking inquiries 24/7 via <strong>WhatsApp</strong> (platform nombor 1 di Malaysia!)</li><li>Handle PDPA-compliant customer data securely (fully aligned with Malaysia's PDPA 2010)</li><li>Save you 20+ hours/week on routine FAQs (property viewing schedules, tour package queries)</li><li>Support Bahasa Malaysia, English, Chinese — semua customer cover!</li></ul><p>Local examples: Hartamas Real Estate dah guna chatbot untuk auto-reply REN inquiries, tourist agencies kat Langkawi guna untuk booking confirmations.</p><div style='margin: 30px 0;'><a href='https://microarktech.com/book-demo' style='background: #3498db; color: white; padding: 12px 24px; text-decoration: none; border-radius: 5px;'>Book Free Demo Sekarang</a></div><p>Reach us via WhatsApp: <a href='https://wa.me/60123456789'>+6012-345 6789</a></p><p>PDPA Compliance Note: All customer data processed via our chatbot is fully compliant with Malaysia's Personal Data Protection Act (PDPA) 2010.</p><p>Regards,<br>Microark AI Team<br><a href='https://microarktech.com'>microarktech.com</a></p></div></body></html>",
+  "email_body_text": "Chatbot jimat 20 jam/minggu untuk SME Malaysia! 🤖\n\nDear SME Owner,\n\nBaru-baru ini, Pulau Pinang dah lancar AI chatbot untuk MBPP services — proof yang AI automation dah jadi keutamaan di Malaysia!\n\nFor tourism & property SMEs, our AI chatbot solutions can:\n- Auto-reply booking inquiries 24/7 via WhatsApp (platform nombor 1 di Malaysia!)\n- Handle PDPA-compliant customer data securely (fully aligned with Malaysia's PDPA 2010)\n- Save you 20+ hours/week on routine FAQs (property viewing schedules, tour package queries)\n- Support Bahasa Malaysia, English, Chinese — semua customer cover!\n\nLocal examples: Hartamas Real Estate dah guna chatbot untuk auto-reply REN inquiries, tourist agencies kat Langkawi guna untuk booking confirmations.\n\nBook Free Demo: https://microarktech.com/book-demo\nWhatsApp: +6012-345 6789\n\nPDPA Compliance Note: All customer data processed via our chatbot is fully compliant with Malaysia's Personal Data Protection Act (PDPA) 2010.\n\nRegards,\nMicroark AI Team\nhttps://microarktech.com",
+  "key_selling_points": [
+    "24/7 WhatsApp integration (dominant MY messaging app)",
+    "PDPA 2010 compliance for Malaysian businesses",
+    "Multi-language support (BM/English/Chinese)",
+    "20+ hours/week time savings on routine inquiries",
+    "Local case studies (Hartamas Real Estate, Langkawi tourism agencies)"
+  ],
+  "pdpa_compliance_note": "Fully compliant with Malaysia's Personal Data Protection Act (PDPA) 2010 — all customer data encrypted, no third-party sharing without consent.",
+  "whatsapp_integration_highlight": "Primary automation channel via WhatsApp Business API — 90% of Malaysian SMEs already use WhatsApp for customer comms.",
+  "local_examples": [
+    "Penang MBPP generative AI chatbot (2026 launch)",
+    "Hartamas Real Estate: Automated REN inquiry replies",
+    "Langkawi tourism agencies: Automated booking confirmations"
+  ],
+  "cta": {
+    "text": "Book Free Demo Sekarang",
+    "url": "https://microarktech.com/book-demo",
+    "whatsapp": "+6012-345 6789"
+  },
+  "footer": {
+    "company": "Microark AI",
+    "website": "https://microarktech.com",
+    "facebook_page": "https://www.facebook.com/profile.php?id=61586620982907",
+    "contact_email": "microarktech@gmail.com"
+  }
+}

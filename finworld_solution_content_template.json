@@ -1,0 +1,68 @@
+{
+  "template_name": "Finworld Solution Facebook Content Template",
+  "target_page": "https://www.facebook.com/finworldsolution26",
+  "industry": "Financial Solutions / SME Business Support",
+  "platform": "Facebook",
+  "language_options": ["English", "Bahasa Malaysia", "Chinese", "Manglish"],
+  "format_options": ["with_video", "without_video"],
+  "post_structure": {
+    "hook": {
+      "description": "3-second pattern interrupt hook, localized to Malaysian SME pain points",
+      "examples": {
+        "English": "SME loan rejection rate naik 30% in 2026! 😱",
+        "BM": "Kadar tolak pinjaman SME naik 30% tahun ini! 😱",
+        "Manglish": "SME loan rejected? Jangan give up, Finworld sini nak tolong! 💪"
+      }
+    },
+    "body": {
+      "description": "150-200 word localized copy, Malaysian context only",
+      "required_elements": [
+        "Mention PDPA compliance for financial data",
+        "Include WhatsApp integration for 24/7 inquiries",
+        "Local examples: SME Corp Malaysia, MDEC grants, Malaysian financial institutions",
+        "Pain points: High interest rates, slow approval, paperwork, compliance"
+      ]
+    },
+    "cta": {
+      "description": "Clear call to action with WhatsApp link",
+      "example": "WhatsApp us now: +6012-345 6789 for free consultation!"
+    }
+  },
+  "image_prompt_template": {
+    "z_image_specs": "2048x2048, optimized for Z-Image/Tongyi-MAI",
+    "structure": "[Subject: Malaysian SME owner/financial advisor] + [Context: KL/Malaysia skyline, office setting] + [Action: reviewing loan documents, using WhatsApp chatbot] + [Style: Professional, warm, localized]",
+    "example": "Malaysian Chinese SME owner in Kuala Lumpur office reviewing SME loan documents on laptop, Finworld Solution logo on desk, WhatsApp chatbot interface open on phone, warm natural lighting, 2048x2048"
+  },
+  "video_production_table_template": {
+    "duration": "30s/60s",
+    "aspect_ratio": "9:16 vertical (TikTok/Reels) or 16:9 (Facebook)",
+    "table_columns": ["Time", "Audio Script", "Z-Image Prompt", "Video Motion Prompt"],
+    "example_30s": [
+      {"Time": "0-3s", "Audio Script": "SME loan rejected? Jangan risau!", "Z-Image Prompt": "Worried SME owner holding rejected loan letter, KL background", "Video Motion Prompt": "Slow zoom in on rejected letter, shake head slowly"},
+      {"Time": "3-15s", "Audio Script": "Finworld Solution boleh bantu with 24/7 WhatsApp chatbot", "Z-Image Prompt": "Finworld logo on phone screen, WhatsApp chat interface", "Video Motion Prompt": "Finger typing on phone, chat messages appearing"},
+      {"Time": "15-30s", "Audio Script": "WhatsApp +6012-345 6789 for free consultation!", "Z-Image Prompt": "Happy SME owner shaking hands with Finworld advisor", "Video Motion Prompt": "Handshake, smile, logo animation at end"}
+    ]
+  },
+  "compliance_notes": [
+    "Include PDPA compliance statement for financial data handling",
+    "Avoid misleading claims about loan approval rates (follow Malaysian financial advertising guidelines)",
+    "Mention Bank Negara Malaysia (BNM) compliance where relevant"
+  ],
+  "multi_platform_adaptation": {
+    "XHS": {
+      "language": "Chinese mandatory",
+      "format": "9-image carousel",
+      "word_count": "50-100 words"
+    },
+    "TikTok": {
+      "format": "9:16 vertical video only",
+      "duration": "30s/60s",
+      "hook": "Pattern interrupt in first 3 seconds"
+    },
+    "Instagram": {
+      "format": "Reels (9:16) or Feed (1:1) with image carousel",
+      "stories": "15s clips with interactive polls"
+    }
+  },
+  "output_path": "/home/auyong/projects/fbpagecontentai/generated_content/finworld_solution/"
+}

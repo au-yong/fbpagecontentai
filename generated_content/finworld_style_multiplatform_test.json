@@ -1,0 +1,95 @@
+{
+  "generation_date": "2026-05-05",
+  "style": "finworld_solution",
+  "base_topic": "AI Agent 2026年企业采用趋势",
+  "platforms": {
+    "XHS": {
+      "platform_name": "小红书 (XiaoHongShu)",
+      "language": "Chinese (简体中文) - mandatory",
+      "format": "9-image carousel",
+      "word_count": "50-100 words",
+      "content": {
+        "title": "AI Agent 2026企业采用🔥",
+        "body": "1️⃣ 自动化客服：24/7不休息\n*我自己测试过，效果真的绝了。。。😂😂\n\n2️⃣ 销售线索筛选：自动qualify\n*比人工快10倍，还不抱怨加班🧐\n\n3️⃣ 数据处理：实时分析报表\n*这个我也在用，省了好多时间！💪\n\n这些趋势真的在改变生意模式～\n期待又怕受伤害😅",
+        "hashtags": ["#AI代理", "#自动化营销系统", "#AI", "#chatbot", "#finworldsolution", "#自动化成交系统", "#自动化的生意", "#2026趋势", "#企业自动化"],
+        "image_prompts": [
+          "AI Agent dashboard界面，中文标注，简洁商务风格，小红书封面图",
+          "24/7客服聊天界面，显示自动回复，马来西亚企业场景",
+          "销售线索筛选流程图，AI自动打分，蓝色科技感",
+          "数据分析报表，实时图表，AI生成，专业商务",
+          "企业老板使用AI Agent，马来西亚办公室，自然光",
+          "自动化工作流示意图，图标清晰，教育性内容",
+          "AI vs 人工效率对比图，柱状图，视觉冲击",
+          "成功案例截图，客户评价，真实感",
+          "Finworld Solution logo + QR code，行动号召"
+        ]
+      }
+    },
+    "TikTok": {
+      "platform_name": "TikTok",
+      "language": "Chinese (简体中文) with some English tech terms",
+      "format": "9:16 vertical video only",
+      "duration": "30s",
+      "content": {
+        "hook": "2026年AI Agent用不用？😱（3秒pattern interrupt）",
+        "script": [
+          {"Time": "0-3s", "Audio": "2026年AI Agent用不用？😱", "Visual": "震惊表情，文字特效'AI Agent 2026'"},
+          {"Time": "3-12s", "Audio": "1️⃣ 客服自动化，24/7不休息 *测试过，效果绝了😂*", "Visual": "手机聊天界面，AI自动回复动画"},
+          {"Time": "12-22s", "Audio": "2️⃣ 销售线索自动筛选 *比人工快10倍🧐*", "Visual": "流程图动画，线索打分特效"},
+          {"Time": "22-30s", "Audio": "Finworld帮你部署！WhatsApp +6012-345 6789 💪", "Visual": "Logo + 联系方式，CTA按钮动画"}
+        ],
+        "z_image_prompts": [
+          "年轻华人企业家震惊表情，马来西亚办公室，TikTok封面",
+          "WhatsApp聊天界面，AI Agent自动回复，手机屏幕特写",
+          "销售漏斗图表，AI自动筛选，蓝色科技背景"
+        ],
+        "video_motion_prompts": [
+          "Fast zoom in on shocked face, text pop-up 'AI Agent 2026'",
+          "Swipe left transition, chat messages appearing rapidly",
+          "Chart animation, numbers counting up fast, glow effects"
+        ]
+      }
+    },
+    "Instagram": {
+      "platform_name": "Instagram",
+      "language": "Chinese (简体中文) + English mix",
+      "format": "Reels (9:16) + Feed (1:1) + Stories (15s clips)",
+      "content": {
+        "reels_30s": {
+          "hook": "AI Agent 2026趋势来了！🤣",
+          "script": "1️⃣ 客服自动化 *我自己也在用😂*\n2️⃣ 销售自动化 *效果真的绝了🧐*\n3️⃣ 数据自动化 *省时又省力💪*\n\nFinworld Solution 帮你搞定！",
+          "cta": "Link in bio | WhatsApp +6012-345 6789"
+        },
+        "feed_post": {
+          "image_format": "1:1 square",
+          "carousel_cards": 5,
+          "content": "AI Agent 2026年企业采用趋势 🚀\n\n1️⃣ 客服自动化 - 24/7在线\n*测试过，效果绝了😂*\n\n2️⃣ 销售自动化 - 自动qualify线索\n*比人工快10倍🧐*\n\n3️⃣ 数据自动化 - 实时分析\n*这个我每天都在用💪*\n\n避不了的趋势。。。\n期待又担忧😅\n\n#AI #Agent #chatbot #finworldsolution #自动化营销系统 #自动化成交系统 #马来西亚企业 #2026趋势",
+          "image_prompts": [
+            "AI Agent概念图，科技感，Instagram Feed适配1:1",
+            "客服自动化界面，WhatsApp集成，专业感",
+            "销售漏斗，AI筛选，蓝色商务风格",
+            "数据分析仪表盘，实时图表，简洁设计",
+            "Finworld Solution团队，马来西亚办公室，真实感"
+          ]
+        },
+        "stories": [
+          {"duration": "15s", "content": "AI Agent 2026趋势🔥", "interactive": "Poll: 用还是不用？🤔", "sticker": "Quiz sticker with '你知道AI Agent吗？'"},
+          {"duration": "15s", "content": "*测试过效果绝了😂*", "interactive": "Question sticker: '你的企业用AI了吗？'", "link": "Swipe up for free consultation"}
+        ]
+      }
+    }
+  },
+  "style_verification": {
+    "finworld_solution_markers": {
+      "hook_style": "Data shock/shocking trend (✓ AI Agent 2026趋势)",
+      "numbered_points": "1️⃣2️⃣3️⃣ with emojis (✓)",
+      "personal_commentary": "*italics with emojis* (✓ 测试过，效果绝了😂)",
+      "self_referential": "我自己也在用/测试过 (✓)",
+      "emoji_pattern": "😂🧐💪😅🤣 (✓)",
+      "reflection_ending": "期待又担忧/避不了的趋势 (✓)",
+      "hashtag_mix": "English + Chinese + brand tags (✓)",
+      "language": "Chinese primary + English tech terms (✓)"
+    }
+  },
+  "output_path": "/home/auyong/projects/fbpagecontentai/generated_content/finworld_style_multiplatform_test.json"
+}

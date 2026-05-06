@@ -1,0 +1,20 @@
+[
+  {
+    "company_id": "",
+    "company_name": "",
+    "registration_no": "",
+    "address": "",
+    "phone": "",
+    "email": "",
+    "website": "",
+    "property_sub_sector": "",
+    "chatbot_pain_points": [
+      "24/7 property inquiries",
+      "appointment scheduling",
+      "multi-language for foreign investors",
+      "PDPA compliance",
+      "WhatsApp integration",
+      "lead qualification"
+    ]
+  }
+]

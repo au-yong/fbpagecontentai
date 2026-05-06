@@ -1,0 +1,94 @@
+{
+  "campaign_name": "Hartamas AI Package FB Ads - Video Lead Gen",
+  "platform": "Facebook Ads",
+  "format": "with_video",
+  "video_duration": 30,
+  "aspect_ratio": "9:16",
+  "target_audience": "Hartamas-based property negotiators, real estate agencies",
+  "pain_points_addressed": [
+    "Very high cost per lead (CPL), expensive ads",
+    "Many fake inquiries wasting time",
+    "Struggle to create quality video content for effective ad spend"
+  ],
+  "solutions_highlighted": [
+    "AI 30s Professional video ads: filter quality leads, trigger chatbot automatically",
+    "Reduce ad spend cost by 40%+ with targeted video content",
+    "AI agent auto-filters fake inquiries, schedules valid meetings 24/7"
+  ],
+  "package_price_myr": 499,
+  "language_variants": {
+    "en": {
+      "ad_headline": "Stop Wasting Money on Expensive Property Ads - RM 499 Only",
+      "ad_body": "Tired of high CPL & fake inquiries for Hartamas listings? 😤\n✅ 30s AI Pro Video Ads: Filter quality leads before they hit your inbox\n✅ 24/7 AI Chatbot: Auto-reject fake inquiries, schedule valid meetings on WhatsApp\n✅ Cut ad spend by 40%+ with content that converts\n💡 RM 499 one-time: AI Video + Chatbot + 5 Property Templates\nPDPA compliant, supports EN/BM/Chinese. Only for Hartamas agents!\n👇 Book free demo now",
+      "cta_button": "Book Demo",
+      "ad_link": "https://microark.ai/hartamas-fb-ads"
+    },
+    "bm": {
+      "ad_headline": "Jangan Bazir Duit Ads Mahal - Ejen Hartamas RM 499 Sahaja",
+      "ad_body": "Penat dengan CPL tinggi & pertanyaan palsu untuk listing Hartamas? 😤\n✅ Video Ads AI 30s: Tapis lead berkualiti sebelum masuk inbox\n✅ Chatbot AI 24/7: Tolak pertanyaan palsu, jadual temu janji sah di WhatsApp\n✅ Kurangkan belanja ads 40%+ dengan kandungan yang convert\n💡 RM 499 sekali bayar: Video AI + Chatbot + 5 Templat Hartanah\nPatuh PDPA, sokongan EN/BM/Cina. Untuk ejen Hartamas sahaja!\n👇 Tempah demo percuma sekarang",
+      "cta_button": "Tempah Demo",
+      "ad_link": "https://microark.ai/hartamas-fb-ads-bm"
+    },
+    "zh": {
+      "ad_headline": "别再浪费钱在贵又无效的房产广告上 - RM 499 限时特惠",
+      "ad_body": "受够了哈达玛斯房源广告成本高、假咨询多？😤\n✅ 30秒AI专业视频广告：提前筛选优质线索，自动触发聊天机器人\n✅ 24/7 AI客服：自动过滤假咨询，在WhatsApp上预约有效会面\n✅ 广告支出减少40%+，内容转化率更高\n💡 一次性支付RM 499：AI视频+聊天机器人+5套房产模板\n符合马来西亚PDPA规范，支持中英马来文。仅限哈达玛斯中介！\n👇 立即预约免费演示",
+      "cta_button": "预约演示",
+      "ad_link": "https://microark.ai/hartamas-fb-ads-zh"
+    },
+    "manglish": {
+      "ad_headline": "RM 499 Je! Stop Burn Duit Ads For Hartamas Listing la",
+      "ad_body": "Sakit hati CPL tinggi & banyak fake inquiry for Hartamas rumah? 😤\n✅ 30s AI Video Ads: Tapis quality lead dulu, auto trigger chatbot\n✅ AI Chatbot 24/7: Reject fake inquiry, schedule valid meeting on WhatsApp\n✅ Cut ads spend 40%+ with content that really convert\n💡 RM 499 one time: AI Video + Chatbot + 5 Property Templates\nPDPA compliant, can speak EN/BM/Chinese. Only for Hartamas agents ah!\n👇 Reply now book free demo",
+      "cta_button": "Book Demo",
+      "ad_link": "https://microark.ai/hartamas-fb-ads-ms"
+    }
+  },
+  "video_production_table": [
+    {
+      "time": "0-5s",
+      "audio": "Tired of paying RM 500+ per lead for Hartamas ads? 😤 Fake inquiries wasting your time?",
+      "z_image_prompt": "Z-Image: Frustrated Hartamas property agent looking at expensive ad dashboard, KL skyline background, 2048x2048, vibrant colors, Malaysian context",
+      "video_motion_prompt": "Slow zoom in on agent's frustrated face, text overlay 'High CPL? Fake Inquiries?' in bold red, 5s duration, 9:16 vertical, upbeat tense music"
+    },
+    {
+      "time": "5-10s",
+      "audio": "Get 30s AI Pro Video Ads that filter quality leads automatically 🎥",
+      "z_image_prompt": "Z-Image: 30s AI video playing on agent's phone showing Hartamas bungalow tour, 2048x2048, clean modern design, Malaysian real estate context",
+      "video_motion_prompt": "Pan across phone screen showing AI-generated property video, text overlay '30s AI Video Ads' in blue, 5s duration, 9:16 vertical"
+    },
+    {
+      "time": "10-15s",
+      "audio": "AI Chatbot auto-rejects fakes, schedules valid meetings on WhatsApp 24/7 🤖",
+      "z_image_prompt": "Z-Image: WhatsApp chat界面 with AI chatbot replying to client, Hartamas property logo, 2048x2048, PDPA compliance badge visible",
+      "video_motion_prompt": "Screen recording of WhatsApp AI chatbot filtering inquiries, text overlay '24/7 Auto Filter' in green, 5s duration, 9:16 vertical"
+    },
+    {
+      "time": "15-20s",
+      "audio": "Cut ad spend by 40%+, get more qualified leads for RM 499 only 💡",
+      "z_image_prompt": "Z-Image: Graph showing 40% ad spend reduction, Hartamas property sales increasing, 2048x2048, professional business chart style",
+      "video_motion_prompt": "Animated bar chart dropping ad spend, rising lead count, text overlay 'RM 499 Only' in gold, 5s duration, 9:16 vertical"
+    },
+    {
+      "time": "20-25s",
+      "audio": "Includes 5 property video templates + PDPA compliant, multi-language support 🇲🇾",
+      "z_image_prompt": "Z-Image: 5 template thumbnails for Hartamas properties, Malaysian flag icon, PDPA badge, 2048x2048, clean grid layout",
+      "video_motion_prompt": "Swipe through 5 video templates, text overlay '5 Free Templates' in purple, 5s duration, 9:16 vertical"
+    },
+    {
+      "time": "25-30s",
+      "audio": "Only for Hartamas agents. Book free demo now! 👇",
+      "z_image_prompt": "Z-Image: Microark AI logo + Hartamas property skyline, CTA 'Book Free Demo', 2048x2048, high contrast for ad visibility",
+      "video_motion_prompt": "Zoom in on CTA button, Hartamas skyline background, text overlay 'Book Demo Now' blinking, 5s duration, 9:16 vertical"
+    }
+  ],
+  "visual_assets": {
+    "z_image_generation": "bytedance-seed/seedream-4.5 via OpenRouter (endpoint: openrouter.ai/api/v1/chat/completions, modalities: [image])",
+    "video_generation": "google/veo-3.1-lite (4/6/8s segments) or xAI/Grok for 30s full video, aspect ratio 9:16"
+  },
+  "compliance": {
+    "pdpa_compliant": true,
+    "meta_ads_policy_compliant": true,
+    "unsubscribe_link": "https://microark.ai/unsubscribe-fb-ads",
+    "contact": "microarktech@gmail.com | WhatsApp: +60xxx-xxx xxxx (AI自动化解决方案)"
+  },
+  "generated_at": "2026-05-06T06:44:50.327255"
+}

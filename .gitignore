@@ -1,0 +1,51 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg-info/
+dist/
+build/
+.eggs/
+*.egg
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Large data files (JSON datasets)
+lpeph_negotiators_20260505_010015.json
+lpeph_negotiators_classified.json
+lpeph_firms_type5_p1-33.json
+malaysia_property_agents_3000.json
+malaysia_tourism_top2000_companies.json
+malaysia_ai_chatbot_target_companies.json
+
+# Generated output files
+output_audience.csv
+negotiators_clean_emails.csv
+email_validation_report.txt
+
+# Environment / secrets
+.env
+.env.*
+*.key
+*.pem
+
+# Scratch / temp
+scratch/
+*.tmp
+*.log

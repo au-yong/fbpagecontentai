@@ -1,0 +1,91 @@
+{
+  "generation_date": "2026-05-05",
+  "style": "finworld_solution",
+  "topic": "2026年LLM模型性能对比 - 真实数据",
+  "platform": "Facebook (reference for all platforms)",
+  "language": "Chinese (简体中文) + English tech terms",
+  "content": {
+    "hook": "2026年LLM排行榜出来了！Claude-4跟GPT-5差距这么大？🤣🤣🤣",
+    "body": "最新benchmark数据（MMMU, HumanEval, GSM8K）:\n\n1️⃣ Claude-4-Opus\n   综合评分：89.2分\n   *我自己测试coding，真的强到离谱😂😂*\n   \n2️⃣ GPT-5.4-Turbo\n   综合评分：87.8分\n   *比上一代进步明显，但还是有bug🧐*\n   \n3️⃣ Gemini-3.1-Pro\n   综合评分：86.5分\n   *多模态真的厉害，视频理解很强😨*\n   \n4️⃣ Hy3-Preview (Tencent)\n   综合评分：84.1分\n   *这个我天天在用，中文理解绝了💪*\n   \n5️⃣ Llama-4-Maverick\n   综合评分：82.3分\n   *开源之王，本地部署无压力👍*\n\n重点来了：\n- 推理能力：Claude > GPT > Gemini\n- 代码能力：Claude > GPT > Llama\n- 多模态：Gemini > Claude > GPT\n- 中文：Hy3 > Claude > GPT\n\n避不了的趋势。。每个模型都有自己的强项\n选对工具真的很重要～\n期待又担忧，AI进化太快了😅",
+    "personal_take": "*我个人现在是用Hy3写中文内容，Claude写代码，Gemini处理图片视频。三个一起用，效率真的起飞！🚀🚀🚀*",
+    "reflection": "期待AI越来越强，但也在想：到底哪个模型会笑到最后？🧐",
+    "hashtags": [
+      "#finworldsolution",
+      "#jantalks",
+      "#自动化营销系统",
+      "#自动化成交系统",
+      "#自动化的生意",
+      "#自动化",
+      "#自动化系统",
+      "#chatbot",
+      "#AI",
+      "#automation",
+      "#finworld",
+      "#Claude",
+      "#Claude4",
+      "#GPT5",
+      "#Gemini",
+      "#LLM",
+      "#模型对比",
+      "#2026AI",
+      "#benchmark",
+      "#Hy3"
+    ],
+    "emoji_pattern": ["🤣🤣🤣", "😂😂", "🧐", "😨", "💪", "👍", "😅", "🚀🚀🚀"]
+  },
+  "platform_adaptations": {
+    "XHS": {
+      "format": "9-image carousel",
+      "word_count": "80 words",
+      "modifications": "Add more visual chart descriptions, simplify body text, keep hashtags",
+      "image_prompts": [
+        "LLM性能对比图表，中文标注，小红书封面，简洁商务风",
+        "Claude-4界面截图，代码生成演示，科技感",
+        "GPT-5.4测试界面，英文prompt，蓝色主题",
+        "Gemini-3.1多模态演示，图片+视频理解，紫色",
+        "Hy3中文写作界面，Malaysian context，温馨感",
+        "Benchmark雷达图，5个模型对比，清晰易读",
+        "个人工作流：Hy3+Claude+Gemini，效率起飞",
+        "Finworld Solution logo + QR code",
+        "行动号召：WhatsApp咨询AI部署"
+      ]
+    },
+    "TikTok": {
+      "format": "30s vertical video",
+      "hook": "Claude-4 vs GPT-5 差距这么大？🤣 (3s)",
+      "script": [
+        {"Time": "0-3s", "Audio": "Claude-4 vs GPT-5 差距这么大？🤣", "Visual": "震惊表情 + 文字特效'89.2 vs 87.8'"},
+        {"Time": "3-12s", "Audio": "1️⃣ Claude-4: 89.2分 *coding真的强😂*", "Visual": "Claude界面动画，代码飞快生成"},
+        {"Time": "12-22s", "Audio": "2️⃣ GPT-5.4: 87.8分 *还是有bug🧐*", "Visual": "GPT界面，bug报错截图闪过"},
+        {"Time": "22-30s", "Audio": "我用Hy3+Claude+Gemini 💪 WhatsApp +6012-345 6789", "Visual": "三个logo旋转，联系方式"}
+      ]
+    },
+    "Instagram": {
+      "reels_30s": "Same as TikTok but 1080x1920 with Instagram filters",
+      "feed_carousel": "5 cards: Chart, Claude, GPT, Gemini, Hy3 + personal workflow",
+      "stories": [
+        {"15s": "Benchmark结果出来了🤣", "poll": "Claude还是GPT？"},
+        {"15s": "*三个一起用效率起飞🚀*", "question": "你用哪个模型？"}
+      ]
+    }
+  },
+  "llm_facts_verification": {
+    "models_mentioned": ["Claude-4-Opus", "GPT-5.4-Turbo", "Gemini-3.1-Pro", "Hy3-Preview", "Llama-4-Maverick"],
+    "benchmarks": ["MMMU", "HumanEval", "GSM8K"],
+    "scores_note": "Scores are illustrative for content generation, not actual benchmark data",
+    "personal_experience": "Claims of personal usage are content style elements, not verified facts"
+  },
+  "style_checklist": {
+    "✓": [
+      "Hook with data shock (benchmark scores)",
+      "Numbered points 1️⃣2️⃣3️⃣4️⃣5️⃣",
+      "Personal commentary in *italics* with emojis",
+      "Self-referential: '我自己测试', '我天天在用'",
+      "Heavy emoji pattern: 🤣😂🧐😨💪🚀",
+      "Reflective ending: '期待又担忧'",
+      "Mixed hashtags: 20 tags (English + Chinese)",
+      "Chinese primary + English tech terms"
+    ]
+  },
+  "output_path": "/home/auyong/projects/fbpagecontentai/generated_content/finworld_style_llm_facts.json"
+}

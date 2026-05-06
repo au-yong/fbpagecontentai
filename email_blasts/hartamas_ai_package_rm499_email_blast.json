@@ -1,0 +1,66 @@
+{
+  "campaign_name": "Hartamas Estate Agent AI Package Promotion - RM 499",
+  "target_audience": "Hartamas-based property negotiators and real estate agencies",
+  "market_context": {
+    "hartamas_news": [
+      "Prominent land deals on the cards in 2026 - The Edge Malaysia",
+      "Malaysia’s 2026 property inflexion: Early uprising or an infrastructure-led mid-cycle peak? - EdgeProp"
+    ],
+    "ai_trends": "AI chatbots reduce 20+ hours/week of client query work; AI video boosts property listing engagement by 3x on TikTok/Reels"
+  },
+  "package_details": {
+    "name": "AI Chatbot + AI Video Pro Package",
+    "price_myr": 499,
+    "components": [
+      "AI Chatbot: 24/7 client query handling, WhatsApp integration, PDPA compliant, multi-language (EN/BM/Chinese)",
+      "AI Video: Z-Image to 9:16 vertical motion video pipeline, 4-8s property tour clips, optimized for TikTok/Reels/IG",
+      "Bonus: 5 pre-built property listing video templates, chatbot FAQ setup for Malaysian property regulations"
+    ]
+  },
+  "email_assets": {
+    "subject_lines": {
+      "en": "RM 499 Only: AI Chatbot + Video Package for Hartamas Agents",
+      "bm": "RM 499 Sahaja: Pakej AI Chatbot + Video untuk Ejen Hartamas",
+      "manglish": "RM 499 Je! AI Chatbot + Video Package untuk Ejen Hartamas",
+      "zh": "RM 499 限时特惠：哈达玛斯房产中介AI聊天机器人+视频套餐"
+    },
+    "preheader": "Boost your Hartamas property leads with 24/7 AI chatbot & viral video content - limited time offer",
+    "body_content": {
+      "en": "Hi [Agent Name],\n\nHope you're riding the 2026 Hartamas property wave! With prominent land deals in the pipeline and the market hitting an infrastructure-led peak, standing out is harder than ever.\n\nWe're offering Hartamas estate agents an exclusive AI automation package at just RM 499 (one-time payment):\n1️⃣ AI Chatbot: Handles client queries 24/7 on WhatsApp, PDPA compliant, supports EN/BM/Chinese\n2️⃣ AI Video Toolkit: Turn property photos into 9:16 vertical videos for TikTok/Reels in seconds\n3️⃣ Bonus: 5 pre-built property video templates + chatbot setup for Malaysian property FAQs\n\nSave 20+ hours/week on routine queries, close more leads with viral video content. Limited slots for Hartamas agents only.\n\nReply to book your free demo today!\nBest,\nMicroark AI Team\nWhatsApp: +60xxx-xxx xxxx (AI自动化解决方案)",
+      "bm": "Hai [Nama Ejen],\n\nTahniah atas perkembangan pasaran hartanah Hartamas 2026! Dengan urus niaga tanah utama yang akan datang, anda perlu menonjolkan diri.\n\nTawaran eksklusif untuk ejen Hartamas: Pakej AI Chatbot + Video AI hanya RM 499 (bayaran sekali):\n1️⃣ AI Chatbot: Jawab pertanyaan pelanggan 24/7 di WhatsApp, patuh PDPA, sokongan EN/BM/Cina\n2️⃣ Toolkit Video AI: Tukar foto hartanah kepada video menegak 9:16 untuk TikTok/Reels dalam saat\n3️⃣ Bonus: 5 templat video hartanah + persediaan chatbot untuk FAQ hartanah Malaysia\n\nJimat 20+ jam/minggu, dapatkan lebih leads dengan video viral. Slot terhad untuk ejen Hartamas sahaja.\n\nBalas untuk tempah demo percuma hari ini!\nSalam,\nPasukan Microark AI\nWhatsApp: +60xxx-xxx xxxx (#AI自动化)",
+      "manglish": "Hi [Agent Name],\n\n2026 Hartamas property market going strong ah! Many land deals coming, you need to stand out ma.\n\nWe give Hartamas agents special AI package RM 499 only (one time pay):\n1️⃣ AI Chatbot: Answer client questions 24/7 on WhatsApp, PDPA compliant, can speak EN/BM/Chinese\n2️⃣ AI Video: Turn house photos to TikTok/Reels video fast fast, 9:16 vertical\n3️⃣ Bonus: 5 ready property video templates + chatbot setup for MY property FAQ\n\nSave 20+ hours/week la, get more buyers with viral video. Only for Hartamas agents, slot limited.\n\nReply now to book free demo!\nRegards,\nMicroark AI Team\nWhatsApp: +60xxx-xxx xxxx (AI自动化解决方案)",
+      "zh": "尊敬的[中介姓名]：\n\n2026年哈达玛斯房产市场迎来基础设施带动的增长高峰，大宗土地交易即将落地，竞争激烈程度前所未有！\n\n我们为哈达玛斯房产中介推出专属AI自动化套餐，仅需一次性支付RM 499：\n1️⃣ AI聊天机器人：24/7在WhatsApp上自动回复客户咨询，符合马来西亚PDPA合规要求，支持中文/英文/马来文三语\n2️⃣ AI视频工具包：将房产照片秒转9:16竖版短视频，适配TikTok/Reels/Instagram，提升房源曝光3倍\n3️⃣ 赠品：5套房产短视频模板 + 马来西亚房产法规FAQ聊天机器人预设\n\n每周节省20+小时重复咨询时间，用病毒式视频内容获取更多买家线索。仅限哈达玛斯地区中介，名额有限！\n\n立即回复预约免费演示！\n此致\nMicroark AI 团队\nWhatsApp：+60xxx-xxx xxxx（AI自动化解决方案）"
+    },
+    "cta": {
+      "text": "Book Free Demo Now",
+      "link": "https://microark.ai/hartamas-demo",
+      "whatsapp_cta": "Chat with us on WhatsApp: +60xxx-xxx xxxx"
+    },
+    "visual_assets": {
+      "header_image_prompt": "Z-Image prompt: Hartamas luxury property skyline, real estate agent using AI chatbot on WhatsApp, 2048x2048, Malaysian context, vibrant colors",
+      "demo_video_prompt": "AI Video motion prompt: Pan across Hartamas bungalow interior, text overlay 'RM 499 AI Package', 6s duration, 9:16 vertical, upbeat background music"
+    },
+    "preheader_zh": "24/7 AI客服+病毒式房产视频，帮哈达玛斯中介省20小时/周，抢2026房产热潮先机"
+  },
+  "follow_up_sequence": [
+    {
+      "delay_days": 3,
+      "subject": "Last Call: RM 499 AI Package for Hartamas Agents",
+      "body_snippet": "Only 5 slots left for Hartamas-based agents. Don't miss out on 24/7 lead qualification + viral video tools.",
+      "subject_zh": "最后机会：哈达玛斯中介专属RM 499 AI套餐"
+    },
+    {
+      "delay_days": 7,
+      "subject": "Your Competitors Are Using AI - Hartamas Property 2026",
+      "body_snippet": "With 2026 property market peak coming, agents using AI chatbot + video are closing 2x more deals. Get your RM 499 package today.",
+      "subject_zh": "你的竞争对手已在用AI——2026哈达玛斯房产市场"
+    }
+  ],
+  "generated_at": "2026-05-05T22:30:10.370995",
+  "compliance": {
+    "pdpa_compliant": true,
+    "unsubscribe_link": "https://microark.ai/unsubscribe",
+    "contact_email": "microarktech@gmail.com"
+  },
+  "updated_at": "2026-05-05T22:34:35.858807"
+}

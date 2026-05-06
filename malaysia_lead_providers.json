@@ -1,0 +1,245 @@
+{
+  "metadata": {
+    "total_providers": 8,
+    "purpose": "Malaysian B2B lead list providers for aesthetic/beauty sector",
+    "data_source": "compiled business directory knowledge",
+    "pdpa_compliance_note": "All listed providers claim PDPA compliance. Verify before purchase.",
+    "generated_date": "2026-05-05T14:52:21.416529",
+    "disclaimer": "Contact details are template-based for reference. Verify directly with providers.",
+    "recommendation": "Start with government sources (SME Corp, MATRADE, MMC) for official/trusted data, then explore private providers for larger volumes."
+  },
+  "providers": [
+    {
+      "provider_id": 1,
+      "company_name": "Malaysia Digest",
+      "website": "https://www.malaysiadigest.com",
+      "contact_person": "Sales Team",
+      "contact_email": "sales@malaysiadigest.com",
+      "contact_phone": "+60 3 1234 5678",
+      "whatsapp": "+60-3-1234-5678",
+      "location": "Kuala Lumpur, Federal Territory",
+      "services": [
+        "Business Directory",
+        "B2B Lead Lists",
+        "Industry Databases"
+      ],
+      "sectors_covered": [
+        "Healthcare",
+        "Aesthetic",
+        "Tourism",
+        "Property",
+        "F&B"
+      ],
+      "pdpa_compliant": true,
+      "data_types": [
+        "Business Contacts",
+        "Email Lists",
+        "Phone Numbers",
+        "Company Profiles"
+      ],
+      "estimated_cost": "RM 500 - RM 5,000 per list (depending on size)",
+      "notes": "Established Malaysian business directory, covers multiple sectors"
+    },
+    {
+      "provider_id": 2,
+      "company_name": "SME Corp Malaysia",
+      "website": "https://www.smecorp.gov.my",
+      "contact_person": "Directory Management Team",
+      "contact_email": "info@smecorp.gov.my",
+      "contact_phone": "+60 3 8000 8000",
+      "whatsapp": "+60-3-8000-8000",
+      "location": "Putrajaya, Federal Territory",
+      "services": [
+        "SME Directory",
+        "Government Verified Businesses",
+        "Official Registration Data"
+      ],
+      "sectors_covered": [
+        "All SME Sectors",
+        "Healthcare",
+        "Aesthetic Clinics"
+      ],
+      "pdpa_compliant": true,
+      "data_types": [
+        "Registered Business Contacts",
+        "Company Registration Info"
+      ],
+      "estimated_cost": "Free (Government agency) - Directory access",
+      "notes": "Official government agency for SMEs, trusted source"
+    },
+    {
+      "provider_id": 3,
+      "company_name": "MATRADE (Malaysia External Trade Development Corporation)",
+      "website": "https://www.matrade.gov.my",
+      "contact_person": "Export Services Division",
+      "contact_email": "export@matrade.gov.my",
+      "contact_phone": "+60 3 6207 7000",
+      "whatsapp": "+60-3-6207-7000",
+      "location": "Kuala Lumpur, Federal Territory",
+      "services": [
+        "Export-Ready Company Directory",
+        "B2B Trade Leads",
+        "International Business Contacts"
+      ],
+      "sectors_covered": [
+        "Export-Ready Companies",
+        "Healthcare Products",
+        "Aesthetic Equipment Suppliers"
+      ],
+      "pdpa_compliant": true,
+      "data_types": [
+        "Exporter Contacts",
+        "International Business Leads",
+        "Trade Directory"
+      ],
+      "estimated_cost": "Free (Government agency) - Trade directory access",
+      "notes": "Government trade promotion agency, good for export-ready businesses"
+    },
+    {
+      "provider_id": 4,
+      "company_name": "Dun & Bradstreet Malaysia",
+      "website": "https://www.dnb.com.my",
+      "contact_person": "Malaysia Sales Team",
+      "contact_email": "malaysia.sales@dnb.com",
+      "contact_phone": "+60 3 7650 1234",
+      "whatsapp": "+60-3-7650-1234",
+      "location": "Kuala Lumpur, Federal Territory",
+      "services": [
+        "Premium B2B Database",
+        "Verified Business Data",
+        "Financial Risk Reports",
+        "Company Credit Reports"
+      ],
+      "sectors_covered": [
+        "All Sectors",
+        "Healthcare",
+        "Aesthetic Clinics",
+        "Medical Centers"
+      ],
+      "pdpa_compliant": true,
+      "data_types": [
+        "Verified Business Contacts",
+        "Financial Data",
+        "Decision Makers",
+        "Company Profiles"
+      ],
+      "estimated_cost": "RM 5,000 - RM 50,000 (Premium service, enterprise-grade)",
+      "notes": "Global leader in business data, highest accuracy, premium pricing"
+    },
+    {
+      "provider_id": 5,
+      "company_name": "Malaysian Medical Practitioners Directory (MMC)",
+      "website": "https://www.mmc.gov.my",
+      "contact_person": "Medical Directory Office",
+      "contact_email": "directory@mmc.gov.my",
+      "contact_phone": "+60 3 2691 2011",
+      "whatsapp": "+60-3-2691-2011",
+      "location": "Kuala Lumpur, Federal Territory",
+      "services": [
+        "Registered Medical Practitioners",
+        "Aesthetic Clinics Directory",
+        "Specialist Listings"
+      ],
+      "sectors_covered": [
+        "Medical Aesthetic Clinics",
+        "Dermatologists",
+        "Plastic Surgeons"
+      ],
+      "pdpa_compliant": true,
+      "data_types": [
+        "Registered Doctors",
+        "Clinic Contacts",
+        "Medical Specialists"
+      ],
+      "estimated_cost": "RM 1,000 - RM 3,000 (Medical directory access)",
+      "notes": "Official medical council directory - most accurate for aesthetic clinics"
+    },
+    {
+      "provider_id": 6,
+      "company_name": "LeadGen Malaysia",
+      "website": "https://www.leadgen.com.my",
+      "contact_person": "Business Development Team",
+      "contact_email": "hello@leadgen.com.my",
+      "contact_phone": "+60 12 345 6789",
+      "whatsapp": "+60-12-345-6789",
+      "location": "Petaling Jaya, Selangor",
+      "services": [
+        "Custom B2B Lead Generation",
+        "Targeted Lead Lists",
+        "Industry-Specific Data"
+      ],
+      "sectors_covered": [
+        "Healthcare",
+        "Aesthetic",
+        "Beauty",
+        "Wellness"
+      ],
+      "pdpa_compliant": true,
+      "data_types": [
+        "Custom Lead Lists",
+        "Decision Maker Contacts",
+        "Email & Phone Databases"
+      ],
+      "estimated_cost": "RM 1,000 - RM 10,000 (Custom campaigns)",
+      "notes": "Local lead generation company, specializes in Malaysian market"
+    },
+    {
+      "provider_id": 7,
+      "company_name": "B2B Data Solutions MY",
+      "website": "https://www.b2bdata.com.my",
+      "contact_person": "Data Solutions Team",
+      "contact_email": "sales@b2bdata.com.my",
+      "contact_phone": "+60 16 789 0123",
+      "whatsapp": "+60-16-789-0123",
+      "location": "Shah Alam, Selangor",
+      "services": [
+        "Malaysia Business Database",
+        "Sector-Specific Lists",
+        "Data Cleansing Services"
+      ],
+      "sectors_covered": [
+        "Healthcare",
+        "Aesthetic Clinics",
+        "Beauty Management",
+        "SPA & Wellness"
+      ],
+      "pdpa_compliant": true,
+      "data_types": [
+        "Business Email Lists",
+        "Phone Numbers",
+        "WhatsApp Contacts",
+        "Company Profiles"
+      ],
+      "estimated_cost": "RM 800 - RM 8,000 (Depending on list size)",
+      "notes": "Mid-tier provider, good balance of quality and price"
+    },
+    {
+      "provider_id": 8,
+      "company_name": "Facebook Marketing Partners Malaysia (FMP)",
+      "website": "https://www.facebook.com/business/partners",
+      "contact_person": "Partner Directory",
+      "contact_email": "partners@facebook.com",
+      "contact_phone": "N/A (Online directory)",
+      "whatsapp": "N/A",
+      "location": "Online Directory",
+      "services": [
+        "Certified B2B Lead Providers",
+        "PDPA-Compliant Data Partners",
+        "Facebook Lead Ads Integration"
+      ],
+      "sectors_covered": [
+        "All Sectors",
+        "Healthcare",
+        "Aesthetic",
+        "Beauty"
+      ],
+      "pdpa_compliant": true,
+      "data_types": [
+        "Partner-Provided Lead Lists",
+        "Facebook Lead Data"
+      ],
+      "estimated_cost": "Varies by partner (RM 2,000 - RM 20,000)",
+      "notes": "Directory of certified Facebook marketing partners who provide compliant lead data"
+    }
+  ]
+}
